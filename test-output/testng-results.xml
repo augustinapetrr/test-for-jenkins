@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-06T22:28:20 EEST" name="Suite" finished-at="2022-10-06T22:28:46 EEST" duration-ms="25410">
+    <groups>
+    </groups>
+    <test started-at="2022-10-06T22:28:20 EEST" name="Test" finished-at="2022-10-06T22:28:46 EEST" duration-ms="25410">
+      <class name="tricentis.tricentis">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tricentis.tricentis@3bb9a3ff]" started-at="2022-10-06T22:28:20 EEST" name="setUp" finished-at="2022-10-06T22:28:26 EEST" duration-ms="5704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="openDriverSession()[pri:0, instance:tricentis.tricentis@3bb9a3ff]" started-at="2022-10-06T22:28:26 EEST" name="openDriverSession" finished-at="2022-10-06T22:28:30 EEST" duration-ms="3662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDriverSession -->
+        <test-method signature="test1()[pri:0, instance:tricentis.tricentis@3bb9a3ff]" started-at="2022-10-06T22:28:30 EEST" name="test1" finished-at="2022-10-06T22:28:34 EEST" duration-ms="3723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="closeDriverSession()[pri:0, instance:tricentis.tricentis@3bb9a3ff]" started-at="2022-10-06T22:28:34 EEST" name="closeDriverSession" finished-at="2022-10-06T22:28:36 EEST" duration-ms="2359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverSession -->
+        <test-method is-config="true" signature="openDriverSession()[pri:0, instance:tricentis.tricentis@3bb9a3ff]" started-at="2022-10-06T22:28:36 EEST" name="openDriverSession" finished-at="2022-10-06T22:28:39 EEST" duration-ms="3510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDriverSession -->
+        <test-method signature="test2()[pri:0, instance:tricentis.tricentis@3bb9a3ff]" started-at="2022-10-06T22:28:39 EEST" name="test2" finished-at="2022-10-06T22:28:44 EEST" duration-ms="4388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="closeDriverSession()[pri:0, instance:tricentis.tricentis@3bb9a3ff]" started-at="2022-10-06T22:28:44 EEST" name="closeDriverSession" finished-at="2022-10-06T22:28:46 EEST" duration-ms="2032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverSession -->
+      </class> <!-- tricentis.tricentis -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
