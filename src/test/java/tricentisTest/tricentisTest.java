@@ -1,4 +1,4 @@
-package tricentis;
+package tricentisTest;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -17,7 +17,7 @@ import java.io.FileNotFoundException;
 import java.time.Duration;
 import java.util.Scanner;
 
-public class tricentis {
+public class tricentisTest {
 	
 	static ChromeDriver Driver;
 	static String[] LogIn = new String[2];
